@@ -8,7 +8,7 @@ import { Textarea } from './ui/textarea';
 const contactDetails = [
   { icon: Phone, title: 'Phone', value: '0311 3991005', href: 'tel:03113991005' },
   { icon: MapPin, title: 'Address', value: 'Nishtarabad Near TCS Office, Peshawar', href: '#' },
-  { icon: Clock3, title: 'Office Hours', value: 'Monday to Saturday, 8:00 AM to 2:00 PM', href: '#' },
+  { icon: Clock3, title: 'School Hours', value: 'Monday to Saturday, 7:30 AM to 1:00 PM', href: '#' },
 ];
 
 export function Contact() {
