@@ -4,6 +4,4 @@ A modern and responsive school website built for Usmania Public School using Rea
 
 ## Run locally
 
-```bash
-npm install
-npm run dev
+https://usmania-public-school.vercel.app/
